@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "291392787091",
+    "project_id": "chat-flutter-lamarck",
+    "storage_bucket": "chat-flutter-lamarck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291392787091:android:013af16ac4faaa5e663366",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291392787091-nvr9dkus70rgm7qv93g34gmkubsum0ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_BanWLVtPJgKsmiUqQsBwEtCbsmCkuq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291392787091-nvr9dkus70rgm7qv93g34gmkubsum0ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
