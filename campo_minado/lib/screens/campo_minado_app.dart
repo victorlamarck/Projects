@@ -74,7 +74,7 @@ class _CampoMinadoAppState extends State<CampoMinadoApp> {
           onReiniciar: _reiniciar,
         ),
         body: Container(
-          color: Colors.green,
+          color: Colors.grey,
           child: LayoutBuilder(
             builder: (ctx, constraints) {
               return TabuleiroWidget(
