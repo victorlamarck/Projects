@@ -17,7 +17,6 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.black,
         title: Center(
           child: Text(
             'Bolão Brasileirão 2021',
@@ -27,12 +26,15 @@ class MyHomePage extends StatelessWidget {
       body: Column(
         children: [
           Expanded(
+            flex: 4,
             child: PalpiteRapido(),
           ),
           Expanded(
+            flex: 3,
             child: Top5Bolao(),
           ),
           Expanded(
+            flex: 3,
             child: Top5Brasileirao(),
           ),
         ],
